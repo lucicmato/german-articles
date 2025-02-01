@@ -1,0 +1,12 @@
+# dependencies
+frontend/node_modules
+frontend/build
+frontend/coverage
+
+beckend/node_modules
+beckend/build
+beckend/coverage
+
+# idea
+.idea
+
