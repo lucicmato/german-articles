@@ -1,0 +1,126 @@
+.card {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: var(--space-4);
+  border: 2px solid transparent;
+  border-radius: var(--radius-md);
+  background-color: var(--color-surface);
+  box-shadow: var(--shadow-card);
+  text-align: center;
+  transition: background-color 0.2s ease;
+
+  &[data-result='correct'] {
+    border-color: var(--color-correct-border);
+    background-color: var(--color-correct);
+  }
+
+  &[data-result='wrong'] {
+    border-color: var(--color-wrong-border);
+    background-color: var(--color-wrong);
+  }
+}
+
+.title {
+  margin: 0 0 var(--space-1);
+  font-size: var(--font-size-title);
+}
+
+.subtitle {
+  margin: 0 0 var(--space-4);
+  color: var(--color-text-muted);
+}
+
+.loading {
+  display: flex;
+  gap: var(--space-2);
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-muted);
+}
+
+.levelGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-3);
+}
+
+.levelButton {
+  padding-block: var(--space-3);
+  font-size: var(--font-size-question);
+  font-weight: bold;
+}
+
+.allLevelsButton {
+  grid-column: 1 / -1;
+}
+
+.quizHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--space-3);
+}
+
+.levelBadge {
+  font-weight: bold;
+  color: var(--color-text-muted);
+}
+
+.translation {
+  justify-content: center;
+}
+
+.questionBox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 64px;
+  margin: var(--space-3) 0 var(--space-4);
+  border: 2px dashed var(--color-border);
+  border-radius: var(--radius-sm);
+  background-color: var(--color-surface-muted);
+
+  h2 {
+    margin: 0;
+    font-size: var(--font-size-question);
+  }
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.answerButton {
+  font-size: var(--font-size-answer);
+  text-transform: none;
+}
+
+.result {
+  min-height: 1.5em;
+  margin: var(--space-3) 0;
+  font-weight: bold;
+}
+
+.nextButton {
+  padding: 10px var(--space-4);
+  border: 2px solid var(--color-accent);
+  border-radius: var(--radius-sm);
+  background: transparent;
+  color: var(--color-accent);
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover:not(:disabled),
+  &:focus-visible {
+    background: var(--color-accent);
+    color: var(--color-on-accent);
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+}
