@@ -69,24 +69,4 @@ router.get('/random', async (req, res, next) => {
   }
 });
 
-// Kept for the current frontend, which still picks ids itself; remove once it uses /random.
-router.get('/:id', async (req, res, next) => {
-  const id = parseId(req.params.id);
-  if (id === null) {
-    return badRequest(res, 'id must be a positive integer');
-  }
-
-  try {
-    const noun = await Noun.findOne({ id }, PUBLIC_FIELDS).lean();
-
-    if (!noun) {
-      return res.status(404).json({ status: 'Error', message: 'No nouns found' });
-    }
-
-    res.status(200).json({ status: 'Success', noun });
-  } catch (error) {
-    next(error);
-  }
-});
-
 module.exports = router;

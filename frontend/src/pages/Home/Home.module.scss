@@ -1,0 +1,8 @@
+.page {
+  padding: var(--space-4) var(--space-3);
+
+  // `zoom` instead of bigger tokens: MUI sizes itself in rem, so only zoom scales the whole card evenly.
+  @media (min-width: 1024px) {
+    zoom: 1.25;
+  }
+}

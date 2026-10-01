@@ -1,6 +1,6 @@
 # dependencies
 frontend/node_modules
-frontend/build
+frontend/dist
 frontend/coverage
 
 beckend/node_modules

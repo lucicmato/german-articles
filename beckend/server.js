@@ -2,13 +2,15 @@ require('dotenv').config();
 
 const express = require('express');
 const cors = require('cors');
+const helmet = require('helmet');
 
 const Database = require('./config/database');
 const NounRouter = require('./routes/Noun.route');
 
 const app = express();
 
-app.disable('x-powered-by');
+// The API is meant to be read from the frontend's origin, so the default `same-origin` CORP would be wrong.
+app.use(helmet({ crossOriginResourcePolicy: { policy: 'cross-origin' } }));
 // Plain `querystring` parsing: `?level[$ne]=A1` stays a string instead of becoming an object that
 // could slip operators into a Mongo filter. The API takes no bodies, so no body parsers either.
 app.set('query parser', 'simple');
