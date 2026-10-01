@@ -1,19 +1,27 @@
 {
-  "name": "beckend",
+  "name": "german-articles-api",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "private": true,
+  "description": "Express + MongoDB API for the German articles practice app",
+  "main": "server.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node scripts/seed.js",
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
   "dependencies": {
-    "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
-    "mongoose": "^8.9.3"
+    "express": "^4.22.3",
+    "mongoose": "^8.24.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.9"
   }
 }

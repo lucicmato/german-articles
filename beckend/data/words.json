@@ -1,0 +1,2322 @@
+[
+  {
+    "_id": {
+      "$oid": "7b239facd25fed1153c35c8a"
+    },
+    "id": 1,
+    "article": "der",
+    "noun": "Mann",
+    "translation": "muškarac",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "db0c2f48cff20b5b395cf21b"
+    },
+    "id": 2,
+    "article": "die",
+    "noun": "Frau",
+    "translation": "žena",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "47ed7b5cbab14998849ed7a7"
+    },
+    "id": 3,
+    "article": "das",
+    "noun": "Kind",
+    "translation": "dijete",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "8021e0b8b39b66cfcfe16b3d"
+    },
+    "id": 4,
+    "article": "der",
+    "noun": "Vater",
+    "translation": "otac",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "c84087613254c71f26a16f95"
+    },
+    "id": 5,
+    "article": "die",
+    "noun": "Mutter",
+    "translation": "majka",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "9ea198dc010d7c1977a9da38"
+    },
+    "id": 6,
+    "article": "der",
+    "noun": "Bruder",
+    "translation": "brat",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "bc2a2af24a191e066c4b52d7"
+    },
+    "id": 7,
+    "article": "die",
+    "noun": "Schwester",
+    "translation": "sestra",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "77d9f4c6cd74bfc615194c68"
+    },
+    "id": 8,
+    "article": "der",
+    "noun": "Sohn",
+    "translation": "sin",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "02e08df7125b2451ae402cd9"
+    },
+    "id": 9,
+    "article": "die",
+    "noun": "Tochter",
+    "translation": "kći",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3418a4ef98e469d98b3cc04e"
+    },
+    "id": 10,
+    "article": "der",
+    "noun": "Freund",
+    "translation": "prijatelj",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "7b8c930418f22a41e3e3f0d0"
+    },
+    "id": 11,
+    "article": "die",
+    "noun": "Freundin",
+    "translation": "prijateljica",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3f4dafc49c2bc81fbadbddaf"
+    },
+    "id": 12,
+    "article": "das",
+    "noun": "Haus",
+    "translation": "kuća",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3d7838a7ff2031a79e656942"
+    },
+    "id": 13,
+    "article": "die",
+    "noun": "Wohnung",
+    "translation": "stan",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "61f7969e8346a7df7f1607eb"
+    },
+    "id": 14,
+    "article": "das",
+    "noun": "Zimmer",
+    "translation": "soba",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3505d9e9362ed2e4f4e458ba"
+    },
+    "id": 15,
+    "article": "die",
+    "noun": "Küche",
+    "translation": "kuhinja",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "e0a8b9d9b72a9a74dc647c36"
+    },
+    "id": 16,
+    "article": "das",
+    "noun": "Bad",
+    "translation": "kupaonica",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "171c93432d6d7e053ce47d11"
+    },
+    "id": 17,
+    "article": "der",
+    "noun": "Tisch",
+    "translation": "stol",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "ec9a7b0776d5993fc630425e"
+    },
+    "id": 18,
+    "article": "der",
+    "noun": "Stuhl",
+    "translation": "stolica",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "dd5a759d2e7e55272beae1a4"
+    },
+    "id": 19,
+    "article": "das",
+    "noun": "Bett",
+    "translation": "krevet",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "7697cd5d5b1d747412c97128"
+    },
+    "id": 20,
+    "article": "das",
+    "noun": "Fenster",
+    "translation": "prozor",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "e83f9c43f7c5860224aca9d3"
+    },
+    "id": 21,
+    "article": "die",
+    "noun": "Tür",
+    "translation": "vrata",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "b3ec4419d4c7caeed40587f9"
+    },
+    "id": 22,
+    "article": "der",
+    "noun": "Hund",
+    "translation": "pas",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "29f95343c273ce6c5d3cdb04"
+    },
+    "id": 23,
+    "article": "die",
+    "noun": "Katze",
+    "translation": "mačka",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "03f3b9e048dc8b7e3d990f2d"
+    },
+    "id": 24,
+    "article": "das",
+    "noun": "Buch",
+    "translation": "knjiga",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "d515f4b3a6c2a7fdc58aba2b"
+    },
+    "id": 25,
+    "article": "der",
+    "noun": "Stift",
+    "translation": "olovka",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "d765668031199e047f7e93e2"
+    },
+    "id": 26,
+    "article": "die",
+    "noun": "Tasche",
+    "translation": "torba",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "6ff31ba07f709d851ecfeabd"
+    },
+    "id": 27,
+    "article": "das",
+    "noun": "Auto",
+    "translation": "automobil",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "ba8f1501cf65744917693319"
+    },
+    "id": 28,
+    "article": "der",
+    "noun": "Bus",
+    "translation": "autobus",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "1bcf7e62ab4d6edca88733df"
+    },
+    "id": 29,
+    "article": "der",
+    "noun": "Zug",
+    "translation": "vlak",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "69ca69a216b95009d5ed5b48"
+    },
+    "id": 30,
+    "article": "die",
+    "noun": "Straße",
+    "translation": "ulica",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "61c2efec45e17540cf95b0cf"
+    },
+    "id": 31,
+    "article": "die",
+    "noun": "Stadt",
+    "translation": "grad",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "b6350d52ac093367a6423888"
+    },
+    "id": 32,
+    "article": "das",
+    "noun": "Land",
+    "translation": "zemlja",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "f1c94e18d2bf66a55d7e640d"
+    },
+    "id": 33,
+    "article": "das",
+    "noun": "Wasser",
+    "translation": "voda",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "7ae519bb0a883c29fe153c3e"
+    },
+    "id": 34,
+    "article": "das",
+    "noun": "Brot",
+    "translation": "kruh",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "21c054843842068417cc739d"
+    },
+    "id": 35,
+    "article": "der",
+    "noun": "Apfel",
+    "translation": "jabuka",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "6623faefd5be1c6e22d971da"
+    },
+    "id": 36,
+    "article": "die",
+    "noun": "Milch",
+    "translation": "mlijeko",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "90cfea5bfa969a3eb0a84a7f"
+    },
+    "id": 37,
+    "article": "der",
+    "noun": "Kaffee",
+    "translation": "kava",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "043ce680efa5fa255494f580"
+    },
+    "id": 38,
+    "article": "der",
+    "noun": "Tee",
+    "translation": "čaj",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "fe8a18afe65d327120401d0d"
+    },
+    "id": 39,
+    "article": "das",
+    "noun": "Essen",
+    "translation": "hrana",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "64755965bd696be7793da6e9"
+    },
+    "id": 40,
+    "article": "das",
+    "noun": "Frühstück",
+    "translation": "doručak",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3102e39d694798cce40151d2"
+    },
+    "id": 41,
+    "article": "das",
+    "noun": "Abendessen",
+    "translation": "večera",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "bc371ef68ef987b7c1cbd173"
+    },
+    "id": 42,
+    "article": "der",
+    "noun": "Tag",
+    "translation": "dan",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "efbdaf5c73e5958a0440ecc2"
+    },
+    "id": 43,
+    "article": "die",
+    "noun": "Woche",
+    "translation": "tjedan",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "3112f0716177a8f4cea793d6"
+    },
+    "id": 44,
+    "article": "der",
+    "noun": "Monat",
+    "translation": "mjesec",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "22ad5c7778c00dc2f6d06562"
+    },
+    "id": 45,
+    "article": "das",
+    "noun": "Jahr",
+    "translation": "godina",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "ff0f6bdd886e6e83ea08d6e6"
+    },
+    "id": 46,
+    "article": "die",
+    "noun": "Uhr",
+    "translation": "sat",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "6855e5354dd52059ba080f1e"
+    },
+    "id": 47,
+    "article": "die",
+    "noun": "Zeit",
+    "translation": "vrijeme",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "b48b82bacec721f8872d9d05"
+    },
+    "id": 48,
+    "article": "die",
+    "noun": "Schule",
+    "translation": "škola",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "1fc20a6760caed0fe4b88c0d"
+    },
+    "id": 49,
+    "article": "der",
+    "noun": "Lehrer",
+    "translation": "učitelj",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "5a721079b8ae84c97f883999"
+    },
+    "id": 50,
+    "article": "die",
+    "noun": "Lehrerin",
+    "translation": "učiteljica",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "ae61fa5dbf0420733fe682fb"
+    },
+    "id": 51,
+    "article": "der",
+    "noun": "Name",
+    "translation": "ime",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "fce31cff684289dd22d5bf35"
+    },
+    "id": 52,
+    "article": "die",
+    "noun": "Arbeit",
+    "translation": "posao",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "7534469c8baa32fdd8b768c0"
+    },
+    "id": 53,
+    "article": "das",
+    "noun": "Geld",
+    "translation": "novac",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "6d0b75e253998a728929e320"
+    },
+    "id": 54,
+    "article": "der",
+    "noun": "Käse",
+    "translation": "sir",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "4600bcf6c53dbd55ea271ec6"
+    },
+    "id": 55,
+    "article": "das",
+    "noun": "Ei",
+    "translation": "jaje",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "368880ae5745eb8b0334ea46"
+    },
+    "id": 56,
+    "article": "das",
+    "noun": "Fleisch",
+    "translation": "meso",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "8587d51673c69d0036adfecb"
+    },
+    "id": 57,
+    "article": "die",
+    "noun": "Hand",
+    "translation": "ruka",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "9a03a4cabb2f78b23d55038d"
+    },
+    "id": 58,
+    "article": "der",
+    "noun": "Kopf",
+    "translation": "glava",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "a3b41947a38e7b9cec4bdd9b"
+    },
+    "id": 59,
+    "article": "das",
+    "noun": "Wetter",
+    "translation": "vrijeme (meteorološko)",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "4cc66702f7078a805ef5293d"
+    },
+    "id": 60,
+    "article": "die",
+    "noun": "Sonne",
+    "translation": "sunce",
+    "level": "A1"
+  },
+  {
+    "_id": {
+      "$oid": "5d3e47594f70fc16400087c4"
+    },
+    "id": 61,
+    "article": "der",
+    "noun": "Bahnhof",
+    "translation": "kolodvor",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "ce322fb04109f0bf99ae753a"
+    },
+    "id": 62,
+    "article": "der",
+    "noun": "Flughafen",
+    "translation": "zračna luka",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "5d3565f7ed1bfef247f61f0f"
+    },
+    "id": 63,
+    "article": "das",
+    "noun": "Flugzeug",
+    "translation": "zrakoplov",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "5a2164231615ec5d43f5f8aa"
+    },
+    "id": 64,
+    "article": "die",
+    "noun": "Fahrkarte",
+    "translation": "vozna karta",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "95a7d996edac66f9c3fc38bf"
+    },
+    "id": 65,
+    "article": "der",
+    "noun": "Urlaub",
+    "translation": "godišnji odmor",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "477619c64b957c4ba7995435"
+    },
+    "id": 66,
+    "article": "die",
+    "noun": "Reise",
+    "translation": "putovanje",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "4ea3d35bada01ae02cb74980"
+    },
+    "id": 67,
+    "article": "das",
+    "noun": "Hotel",
+    "translation": "hotel",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "022beb72bda587edf0243ab5"
+    },
+    "id": 68,
+    "article": "der",
+    "noun": "Koffer",
+    "translation": "kofer",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "327944aa40a76eaf70c422dd"
+    },
+    "id": 69,
+    "article": "das",
+    "noun": "Geschäft",
+    "translation": "trgovina",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "6b89bce3d26c1db9282a1848"
+    },
+    "id": 70,
+    "article": "der",
+    "noun": "Supermarkt",
+    "translation": "supermarket",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "8e5384938eb2592085ba4392"
+    },
+    "id": 71,
+    "article": "die",
+    "noun": "Bäckerei",
+    "translation": "pekara",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "306bf9a2fb543c73d9a6226b"
+    },
+    "id": 72,
+    "article": "die",
+    "noun": "Apotheke",
+    "translation": "ljekarna",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "38f8ee7e7009cf8dc20bdef7"
+    },
+    "id": 73,
+    "article": "der",
+    "noun": "Arzt",
+    "translation": "liječnik",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "8958d7a8ecac69e6b977e2b4"
+    },
+    "id": 74,
+    "article": "das",
+    "noun": "Krankenhaus",
+    "translation": "bolnica",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "6ec9487427264bbbd8f80522"
+    },
+    "id": 75,
+    "article": "die",
+    "noun": "Krankheit",
+    "translation": "bolest",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "8a92aeecf4d35657cc91455c"
+    },
+    "id": 76,
+    "article": "das",
+    "noun": "Medikament",
+    "translation": "lijek",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "9e5cc19af12c061ee495f047"
+    },
+    "id": 77,
+    "article": "der",
+    "noun": "Schmerz",
+    "translation": "bol",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "c2829a52b429460ae879ce5b"
+    },
+    "id": 78,
+    "article": "der",
+    "noun": "Termin",
+    "translation": "termin",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "b7920400e6362a9d6d267d23"
+    },
+    "id": 79,
+    "article": "die",
+    "noun": "Rechnung",
+    "translation": "račun",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "d1d78274fe7b5ed3a73eba36"
+    },
+    "id": 80,
+    "article": "der",
+    "noun": "Preis",
+    "translation": "cijena",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "52bac9f9608c9cdf847c2176"
+    },
+    "id": 81,
+    "article": "das",
+    "noun": "Angebot",
+    "translation": "ponuda",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "1a1de0a4540d5658c4aa726d"
+    },
+    "id": 82,
+    "article": "die",
+    "noun": "Kleidung",
+    "translation": "odjeća",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "210eab7df6f59c2615c2ddd3"
+    },
+    "id": 83,
+    "article": "die",
+    "noun": "Hose",
+    "translation": "hlače",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "40967b65e40cff0e248c40d2"
+    },
+    "id": 84,
+    "article": "das",
+    "noun": "Hemd",
+    "translation": "košulja",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "cef01bee1375c20b250127a8"
+    },
+    "id": 85,
+    "article": "der",
+    "noun": "Schuh",
+    "translation": "cipela",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "d4b0a5961e5b663bf6d66d37"
+    },
+    "id": 86,
+    "article": "der",
+    "noun": "Mantel",
+    "translation": "kaput",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "0b2f5515b5b289ef406bfb65"
+    },
+    "id": 87,
+    "article": "die",
+    "noun": "Jacke",
+    "translation": "jakna",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "dfe3ab3e4849de66ec382f53"
+    },
+    "id": 88,
+    "article": "das",
+    "noun": "Kleid",
+    "translation": "haljina",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "da26d4ca305b1e350a0da457"
+    },
+    "id": 89,
+    "article": "der",
+    "noun": "Geburtstag",
+    "translation": "rođendan",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "c3016f57dc6bc712ce8ffbe2"
+    },
+    "id": 90,
+    "article": "das",
+    "noun": "Geschenk",
+    "translation": "poklon",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "649bfa1e2a78718f55a59132"
+    },
+    "id": 91,
+    "article": "die",
+    "noun": "Party",
+    "translation": "zabava",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "ed4bec413280aea735fc5371"
+    },
+    "id": 92,
+    "article": "die",
+    "noun": "Einladung",
+    "translation": "pozivnica",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "1fd706635888641aaf61535c"
+    },
+    "id": 93,
+    "article": "der",
+    "noun": "Nachbar",
+    "translation": "susjed",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "a9afd6a3dff4cca43ff7f78a"
+    },
+    "id": 94,
+    "article": "die",
+    "noun": "Familie",
+    "translation": "obitelj",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "69423509cb23748b3b095ca0"
+    },
+    "id": 95,
+    "article": "der",
+    "noun": "Onkel",
+    "translation": "ujak",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "b6fe0de1db698dc41b6aa74c"
+    },
+    "id": 96,
+    "article": "die",
+    "noun": "Tante",
+    "translation": "teta",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "9cca4c4d7e95aca6e7ca4ccd"
+    },
+    "id": 97,
+    "article": "der",
+    "noun": "Opa",
+    "translation": "djed",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "7f48ecc727e7a577c0a6f1e0"
+    },
+    "id": 98,
+    "article": "die",
+    "noun": "Oma",
+    "translation": "baka",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "44b6d5c103e0f97cc0393508"
+    },
+    "id": 99,
+    "article": "der",
+    "noun": "Computer",
+    "translation": "računalo",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "7ee16ae30bb42aeaceb1453a"
+    },
+    "id": 100,
+    "article": "das",
+    "noun": "Handy",
+    "translation": "mobitel",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "d7b1482293866c720c8eb664"
+    },
+    "id": 101,
+    "article": "die",
+    "noun": "E-Mail",
+    "translation": "e-pošta",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "f904cd103a7efec3eb7f8c0c"
+    },
+    "id": 102,
+    "article": "das",
+    "noun": "Internet",
+    "translation": "internet",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "1c8b244781cbd305f1f3511c"
+    },
+    "id": 103,
+    "article": "das",
+    "noun": "Foto",
+    "translation": "fotografija",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "1f4103f0e94dfdf4efa1eb57"
+    },
+    "id": 104,
+    "article": "der",
+    "noun": "Film",
+    "translation": "film",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "e70f8d5c4733aa64e98d271d"
+    },
+    "id": 105,
+    "article": "die",
+    "noun": "Musik",
+    "translation": "glazba",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "ec985f0aa2808991325f082b"
+    },
+    "id": 106,
+    "article": "das",
+    "noun": "Konzert",
+    "translation": "koncert",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "396b51c48f4943dadc00f512"
+    },
+    "id": 107,
+    "article": "der",
+    "noun": "Sport",
+    "translation": "sport",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "0f67934abf6908d3d36df283"
+    },
+    "id": 108,
+    "article": "das",
+    "noun": "Spiel",
+    "translation": "igra",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "680659f06001195c8a7ab536"
+    },
+    "id": 109,
+    "article": "der",
+    "noun": "Garten",
+    "translation": "vrt",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "77e59d2ebd769fe09ff5afd2"
+    },
+    "id": 110,
+    "article": "der",
+    "noun": "Park",
+    "translation": "park",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "2e9c5e99ba5ff057840a5d7a"
+    },
+    "id": 111,
+    "article": "der",
+    "noun": "Fluss",
+    "translation": "rijeka",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "a2a7ae44b1617789e9b30ad2"
+    },
+    "id": 112,
+    "article": "der",
+    "noun": "Berg",
+    "translation": "planina",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "84c0aa9ca2dd1395ad08e59f"
+    },
+    "id": 113,
+    "article": "das",
+    "noun": "Meer",
+    "translation": "more",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "85f8cd060fcc521b79441745"
+    },
+    "id": 114,
+    "article": "der",
+    "noun": "Strand",
+    "translation": "plaža",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "8bfff88132166eae7bae0753"
+    },
+    "id": 115,
+    "article": "der",
+    "noun": "Regen",
+    "translation": "kiša",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "78d09221c0171e7dc11c9e6c"
+    },
+    "id": 116,
+    "article": "der",
+    "noun": "Schnee",
+    "translation": "snijeg",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "e0afef435c95895a0766182c"
+    },
+    "id": 117,
+    "article": "der",
+    "noun": "Winter",
+    "translation": "zima",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "4ba1b5caedb56665283176e3"
+    },
+    "id": 118,
+    "article": "der",
+    "noun": "Sommer",
+    "translation": "ljeto",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "1e0d118d2349782c9d5e5f05"
+    },
+    "id": 119,
+    "article": "der",
+    "noun": "Frühling",
+    "translation": "proljeće",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "2b328323ba980b7ac1d56930"
+    },
+    "id": 120,
+    "article": "der",
+    "noun": "Herbst",
+    "translation": "jesen",
+    "level": "A2"
+  },
+  {
+    "_id": {
+      "$oid": "909826f14f4b653aadfeed21"
+    },
+    "id": 121,
+    "article": "die",
+    "noun": "Erfahrung",
+    "translation": "iskustvo",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "70336a49664a1142db11d2b7"
+    },
+    "id": 122,
+    "article": "die",
+    "noun": "Entscheidung",
+    "translation": "odluka",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "b457307c3ecf73d8a62f991c"
+    },
+    "id": 123,
+    "article": "die",
+    "noun": "Meinung",
+    "translation": "mišljenje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "4d3c6811fe6b11cf485035e2"
+    },
+    "id": 124,
+    "article": "das",
+    "noun": "Problem",
+    "translation": "problem",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "44606e36e9bd905991f86a89"
+    },
+    "id": 125,
+    "article": "die",
+    "noun": "Lösung",
+    "translation": "rješenje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "72f6795de4ed8552950f4189"
+    },
+    "id": 126,
+    "article": "der",
+    "noun": "Vorschlag",
+    "translation": "prijedlog",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ccf02b1919b47c0e30b53d31"
+    },
+    "id": 127,
+    "article": "die",
+    "noun": "Gelegenheit",
+    "translation": "prilika",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "2f7b717b00346c8a93be952c"
+    },
+    "id": 128,
+    "article": "der",
+    "noun": "Unterschied",
+    "translation": "razlika",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "e08138a115fbb9628512a3d8"
+    },
+    "id": 129,
+    "article": "die",
+    "noun": "Gesellschaft",
+    "translation": "društvo",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "8b5d6b3a57b165659c7c79bc"
+    },
+    "id": 130,
+    "article": "die",
+    "noun": "Umwelt",
+    "translation": "okoliš",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "4f6c31b0f0cce303d752882b"
+    },
+    "id": 131,
+    "article": "die",
+    "noun": "Gesundheit",
+    "translation": "zdravlje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "6571e71303ae180135cf40e5"
+    },
+    "id": 132,
+    "article": "die",
+    "noun": "Ausbildung",
+    "translation": "izobrazba",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "29337d3dc7ec61f0e1eb9e28"
+    },
+    "id": 133,
+    "article": "das",
+    "noun": "Studium",
+    "translation": "studij",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "94e9fd270f6f11f04c3a5ca6"
+    },
+    "id": 134,
+    "article": "die",
+    "noun": "Bewerbung",
+    "translation": "prijava za posao",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ae0a9bb28e84bd2a0c1d3f50"
+    },
+    "id": 135,
+    "article": "der",
+    "noun": "Lebenslauf",
+    "translation": "životopis",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "a070eb54305742535d2dd227"
+    },
+    "id": 136,
+    "article": "das",
+    "noun": "Vorstellungsgespräch",
+    "translation": "razgovor za posao",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ee520c045f5cdd86f2eb18e3"
+    },
+    "id": 137,
+    "article": "der",
+    "noun": "Beruf",
+    "translation": "zanimanje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "e93f5cebe0a89dfa975b8daf"
+    },
+    "id": 138,
+    "article": "der",
+    "noun": "Kollege",
+    "translation": "kolega",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "252d725b852b8f98bafe8063"
+    },
+    "id": 139,
+    "article": "der",
+    "noun": "Chef",
+    "translation": "šef",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "de6645e072eb65503b88fbae"
+    },
+    "id": 140,
+    "article": "das",
+    "noun": "Gehalt",
+    "translation": "plaća",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "4a18b8261e9e9c211b9ad48e"
+    },
+    "id": 141,
+    "article": "der",
+    "noun": "Vertrag",
+    "translation": "ugovor",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "9fdde110b84cdc68412a60c8"
+    },
+    "id": 142,
+    "article": "die",
+    "noun": "Versicherung",
+    "translation": "osiguranje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "0c495c60445b174045ab9896"
+    },
+    "id": 143,
+    "article": "die",
+    "noun": "Zukunft",
+    "translation": "budućnost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "90e5bf4f69d74061ecb440b4"
+    },
+    "id": 144,
+    "article": "die",
+    "noun": "Vergangenheit",
+    "translation": "prošlost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "6b65182c7bfe1f9eceec5d2f"
+    },
+    "id": 145,
+    "article": "die",
+    "noun": "Erinnerung",
+    "translation": "sjećanje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "307998f1a1189ee8b763fc77"
+    },
+    "id": 146,
+    "article": "der",
+    "noun": "Traum",
+    "translation": "san",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "c1a74d9bd22897aa1f1aa2bb"
+    },
+    "id": 147,
+    "article": "die",
+    "noun": "Hoffnung",
+    "translation": "nada",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "c0765ab3135a8b3a6417e886"
+    },
+    "id": 148,
+    "article": "die",
+    "noun": "Angst",
+    "translation": "strah",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "fe129844772b2880726470ee"
+    },
+    "id": 149,
+    "article": "das",
+    "noun": "Gefühl",
+    "translation": "osjećaj",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ae4d84979c66c5af39e69258"
+    },
+    "id": 150,
+    "article": "die",
+    "noun": "Verantwortung",
+    "translation": "odgovornost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ba44287652b0aa6bfba36ffe"
+    },
+    "id": 151,
+    "article": "die",
+    "noun": "Möglichkeit",
+    "translation": "mogućnost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "383070e9dbe886041ecd2a38"
+    },
+    "id": 152,
+    "article": "die",
+    "noun": "Fähigkeit",
+    "translation": "sposobnost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "b221df5aea08f38c96b7d20f"
+    },
+    "id": 153,
+    "article": "die",
+    "noun": "Absicht",
+    "translation": "namjera",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "9a39989c8fcea3a779238d57"
+    },
+    "id": 154,
+    "article": "das",
+    "noun": "Ziel",
+    "translation": "cilj",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "fc0d5883c7d9dcfc0adb8063"
+    },
+    "id": 155,
+    "article": "der",
+    "noun": "Erfolg",
+    "translation": "uspjeh",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "613e3930128311e4c261b574"
+    },
+    "id": 156,
+    "article": "das",
+    "noun": "Ergebnis",
+    "translation": "rezultat",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "399e28cadbd91644fcdd4d60"
+    },
+    "id": 157,
+    "article": "die",
+    "noun": "Veränderung",
+    "translation": "promjena",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "d558c69ba1c14d714c36c667"
+    },
+    "id": 158,
+    "article": "die",
+    "noun": "Entwicklung",
+    "translation": "razvoj",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "57d9ec8bad178b07af4237b6"
+    },
+    "id": 159,
+    "article": "die",
+    "noun": "Beziehung",
+    "translation": "odnos",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "45a047dce101cc6a9ba337ae"
+    },
+    "id": 160,
+    "article": "das",
+    "noun": "Vertrauen",
+    "translation": "povjerenje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "06640cede6c5c3559f7cfdd2"
+    },
+    "id": 161,
+    "article": "die",
+    "noun": "Freiheit",
+    "translation": "sloboda",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "5b08140fe63d876b7a9d87ad"
+    },
+    "id": 162,
+    "article": "die",
+    "noun": "Sicherheit",
+    "translation": "sigurnost",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "70ae516ea4db99cf51efe24c"
+    },
+    "id": 163,
+    "article": "der",
+    "noun": "Verkehr",
+    "translation": "promet",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "313cab6f68325b8de1a47b0f"
+    },
+    "id": 164,
+    "article": "die",
+    "noun": "Verspätung",
+    "translation": "kašnjenje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "d45ca1ef2273b6916d920282"
+    },
+    "id": 165,
+    "article": "die",
+    "noun": "Wirtschaft",
+    "translation": "gospodarstvo",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "5f38160e5466ecbfb85f9701"
+    },
+    "id": 166,
+    "article": "die",
+    "noun": "Regierung",
+    "translation": "vlada",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "64c930cc8cb0bd80fcf43057"
+    },
+    "id": 167,
+    "article": "das",
+    "noun": "Gesetz",
+    "translation": "zakon",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "a9e247a7fd492da4a836512a"
+    },
+    "id": 168,
+    "article": "die",
+    "noun": "Wahl",
+    "translation": "izbor",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "e1144a6393e79fcb52668d34"
+    },
+    "id": 169,
+    "article": "die",
+    "noun": "Nachricht",
+    "translation": "vijest",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "eafee2edee077bf8d5aa25d6"
+    },
+    "id": 170,
+    "article": "die",
+    "noun": "Zeitung",
+    "translation": "novine",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "9fb6f50e0d6e09a163cef423"
+    },
+    "id": 171,
+    "article": "die",
+    "noun": "Werbung",
+    "translation": "reklama",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "170056e1f12e807b6267bb5a"
+    },
+    "id": 172,
+    "article": "die",
+    "noun": "Erlaubnis",
+    "translation": "dopuštenje",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "ee0688c2ec82e2a05c1e4fb4"
+    },
+    "id": 173,
+    "article": "der",
+    "noun": "Streit",
+    "translation": "svađa",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "7dee8b5566f689fdbbf182f1"
+    },
+    "id": 174,
+    "article": "die",
+    "noun": "Mühe",
+    "translation": "trud",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "16a8a925e246b1e2fc43227a"
+    },
+    "id": 175,
+    "article": "der",
+    "noun": "Zweifel",
+    "translation": "sumnja",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "04d6dca2085e89966f796d96"
+    },
+    "id": 176,
+    "article": "die",
+    "noun": "Wirkung",
+    "translation": "učinak",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "b4900b27ae40c7e46e4ab258"
+    },
+    "id": 177,
+    "article": "die",
+    "noun": "Bedingung",
+    "translation": "uvjet",
+    "level": "B1"
+  },
+  {
+    "_id": {
+      "$oid": "d9192184a1f4d7afd70913c2"
+    },
+    "id": 178,
+    "article": "die",
+    "noun": "Auswirkung",
+    "translation": "posljedica",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "50a2e19020a7588ca546470c"
+    },
+    "id": 179,
+    "article": "der",
+    "noun": "Zusammenhang",
+    "translation": "povezanost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "93785e430290923b0662ffb0"
+    },
+    "id": 180,
+    "article": "die",
+    "noun": "Voraussetzung",
+    "translation": "preduvjet",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "c2a58c07da1abbb66ba3c05c"
+    },
+    "id": 181,
+    "article": "die",
+    "noun": "Herausforderung",
+    "translation": "izazov",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "436680d62d124fec2e4c1770"
+    },
+    "id": 182,
+    "article": "die",
+    "noun": "Errungenschaft",
+    "translation": "postignuće",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "9e961ebc8ef220587429b359"
+    },
+    "id": 183,
+    "article": "der",
+    "noun": "Fortschritt",
+    "translation": "napredak",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "0f1a28524b8058e3bfea27ce"
+    },
+    "id": 184,
+    "article": "der",
+    "noun": "Rückgang",
+    "translation": "pad",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "412a2101f0e2435e6cbe9938"
+    },
+    "id": 185,
+    "article": "der",
+    "noun": "Anstieg",
+    "translation": "porast",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "1f31b2cb4fa132d24a12bebb"
+    },
+    "id": 186,
+    "article": "der",
+    "noun": "Standpunkt",
+    "translation": "stajalište",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "9f9dd0e80def56785cbb65dd"
+    },
+    "id": 187,
+    "article": "die",
+    "noun": "Behauptung",
+    "translation": "tvrdnja",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "731f923329fef64e17768ae8"
+    },
+    "id": 188,
+    "article": "der",
+    "noun": "Beweis",
+    "translation": "dokaz",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "2d6c948fe78576ba1daa9b52"
+    },
+    "id": 189,
+    "article": "die",
+    "noun": "Schlussfolgerung",
+    "translation": "zaključak",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "25aee365f90096d64e2a719c"
+    },
+    "id": 190,
+    "article": "die",
+    "noun": "Abhängigkeit",
+    "translation": "ovisnost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "986e462552d56ab6815c977a"
+    },
+    "id": 191,
+    "article": "die",
+    "noun": "Gleichberechtigung",
+    "translation": "ravnopravnost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "f9c3a3db1c3694f20695cad1"
+    },
+    "id": 192,
+    "article": "die",
+    "noun": "Benachteiligung",
+    "translation": "diskriminacija",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "63fbfd3448102eae1e54c7a0"
+    },
+    "id": 193,
+    "article": "die",
+    "noun": "Verpflichtung",
+    "translation": "obveza",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "f6987712e3fb90a39baefd7e"
+    },
+    "id": 194,
+    "article": "die",
+    "noun": "Befugnis",
+    "translation": "ovlast",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "98fc4ba0517a5fd09ee4003e"
+    },
+    "id": 195,
+    "article": "die",
+    "noun": "Zuständigkeit",
+    "translation": "nadležnost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "7651cce09b8dea7f99f1b79a"
+    },
+    "id": 196,
+    "article": "der",
+    "noun": "Antrag",
+    "translation": "zahtjev",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "ff87a1c58a8f702830928541"
+    },
+    "id": 197,
+    "article": "die",
+    "noun": "Genehmigung",
+    "translation": "odobrenje",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "f9cef23d9ed6f2885dc712eb"
+    },
+    "id": 198,
+    "article": "die",
+    "noun": "Beschwerde",
+    "translation": "pritužba",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "9b0b0face47a1cae640a2249"
+    },
+    "id": 199,
+    "article": "der",
+    "noun": "Schaden",
+    "translation": "šteta",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "ed1b9da2d4ceedf4b21690dc"
+    },
+    "id": 200,
+    "article": "die",
+    "noun": "Haftung",
+    "translation": "pravna odgovornost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "37ceb780224fd0323a650601"
+    },
+    "id": 201,
+    "article": "die",
+    "noun": "Entschädigung",
+    "translation": "naknada",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "8d92c0becaa4649c3173ace8"
+    },
+    "id": 202,
+    "article": "die",
+    "noun": "Einschränkung",
+    "translation": "ograničenje",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "a65c28bdadf1af3b0290deb6"
+    },
+    "id": 203,
+    "article": "die",
+    "noun": "Maßnahme",
+    "translation": "mjera",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "d4f56be85df185343d8c249f"
+    },
+    "id": 204,
+    "article": "die",
+    "noun": "Umsetzung",
+    "translation": "provedba",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "703f5cb3d33fd8e06dd226e0"
+    },
+    "id": 205,
+    "article": "die",
+    "noun": "Grundlage",
+    "translation": "temelj",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "21d58d30d2276ec7c3b3b17a"
+    },
+    "id": 206,
+    "article": "der",
+    "noun": "Ansatz",
+    "translation": "pristup",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "1a6b4af2dc3a32071e16f6e5"
+    },
+    "id": 207,
+    "article": "die",
+    "noun": "Bewältigung",
+    "translation": "svladavanje",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "7f796ecf329c89030160449c"
+    },
+    "id": 208,
+    "article": "die",
+    "noun": "Wahrnehmung",
+    "translation": "percepcija",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "ed2ae9e6d6c7caee3c1f4ba1"
+    },
+    "id": 209,
+    "article": "das",
+    "noun": "Bewusstsein",
+    "translation": "svijest",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "803f54c724c1edb97e2865ec"
+    },
+    "id": 210,
+    "article": "die",
+    "noun": "Vorstellung",
+    "translation": "predodžba",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "2e21b2cca1d2e33b4e9d770d"
+    },
+    "id": 211,
+    "article": "das",
+    "noun": "Vorurteil",
+    "translation": "predrasuda",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "64562428c1d2462c288a0c48"
+    },
+    "id": 212,
+    "article": "die",
+    "noun": "Gewohnheit",
+    "translation": "navika",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "875610d9a29cccca3bed3ab3"
+    },
+    "id": 213,
+    "article": "der",
+    "noun": "Zwang",
+    "translation": "prisila",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "17083ad6f8e5cb639f558ce0"
+    },
+    "id": 214,
+    "article": "der",
+    "noun": "Anspruch",
+    "translation": "pravo na nešto",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "7332aa957cbe8b36f0de615d"
+    },
+    "id": 215,
+    "article": "der",
+    "noun": "Einfluss",
+    "translation": "utjecaj",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "a7eb11733d92781c086e71d7"
+    },
+    "id": 216,
+    "article": "der",
+    "noun": "Anbieter",
+    "translation": "pružatelj usluge",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "c6dbbc0d84c3aa849d115ee5"
+    },
+    "id": 217,
+    "article": "der",
+    "noun": "Verbraucher",
+    "translation": "potrošač",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "3c99b02c2b5ec12593acc10c"
+    },
+    "id": 218,
+    "article": "die",
+    "noun": "Nachfrage",
+    "translation": "potražnja",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "2a1f7ad270c2a35a4b13707a"
+    },
+    "id": 219,
+    "article": "der",
+    "noun": "Haushalt",
+    "translation": "kućanstvo",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "0e31b9e6ea4be6e1f2bc7323"
+    },
+    "id": 220,
+    "article": "die",
+    "noun": "Steuer",
+    "translation": "porez",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "4477dfb3b15a66ec4815c33f"
+    },
+    "id": 221,
+    "article": "das",
+    "noun": "Vermögen",
+    "translation": "imovina",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "104830e469fb32abe40cdc49"
+    },
+    "id": 222,
+    "article": "der",
+    "noun": "Gewinn",
+    "translation": "dobit",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "86f4507bb71fc540a094a33f"
+    },
+    "id": 223,
+    "article": "der",
+    "noun": "Verlust",
+    "translation": "gubitak",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "231c81b056be68cd0ed45c26"
+    },
+    "id": 224,
+    "article": "die",
+    "noun": "Konkurrenz",
+    "translation": "konkurencija",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "ef43c28632c19ac9f3df6448"
+    },
+    "id": 225,
+    "article": "die",
+    "noun": "Nachhaltigkeit",
+    "translation": "održivost",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "9f1b679e50190dc1e06d1f09"
+    },
+    "id": 226,
+    "article": "die",
+    "noun": "Ressource",
+    "translation": "resurs",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "def4160e6cef110f30392586"
+    },
+    "id": 227,
+    "article": "der",
+    "noun": "Klimawandel",
+    "translation": "klimatske promjene",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "b176f63a23fc716ed4d1a9e4"
+    },
+    "id": 228,
+    "article": "die",
+    "noun": "Eingliederung",
+    "translation": "integracija",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "309b1dbab64397258aa75a69"
+    },
+    "id": 229,
+    "article": "die",
+    "noun": "Auseinandersetzung",
+    "translation": "rasprava",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "fc80b0aaeed3114b694aa8b3"
+    },
+    "id": 230,
+    "article": "die",
+    "noun": "Bedeutung",
+    "translation": "značenje",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "880f2f01774c356f71468f9a"
+    },
+    "id": 231,
+    "article": "die",
+    "noun": "Vereinbarung",
+    "translation": "dogovor",
+    "level": "B2"
+  },
+  {
+    "_id": {
+      "$oid": "15424fe2fb74a92861733503"
+    },
+    "id": 232,
+    "article": "die",
+    "noun": "Anforderung",
+    "translation": "uvjet",
+    "level": "B2"
+  }
+]

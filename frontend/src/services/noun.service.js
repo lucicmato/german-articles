@@ -2,7 +2,8 @@ import axios from "axios";
 
 export default class NounService {
     static async getQuestion(id) {
-        const ruta = `http://localhost:4001/api/noun/${id}`;
+        const baseUrl = process.env.REACT_APP_API_URL || "http://localhost:4001";
+        const ruta = `${baseUrl}/api/noun/${id}`;
 
         try {
             const response = await axios.get(ruta);
