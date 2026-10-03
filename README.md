@@ -32,7 +32,8 @@ written record of the trade-offs that were accepted rather than silently ignored
 
 ## Features
 
-- **Level picker** — A1, A2, B1, B2 or all levels; levels without words are disabled.
+- **Level picker** — A1, A2, B1, B2 or all levels, shown instantly; an empty level says so and points
+  back to the picker.
 - **Quiz loop** — a random noun with its translation; the same noun never appears twice in a row.
 - **One answer per question** — the choice is locked, the correct article is highlighted, and the
   result is shown as text, not only colour.
@@ -128,7 +129,8 @@ Liveness only — does **not** touch the database, so it stays cheap and cannot 
 ### `GET /api/noun/levels`
 
 Word count per level, always in `A1 → B2` order and always including every level (missing ones are `0`).
-The frontend calls it on the start screen, which also warms up the function and the database connection.
+The frontend fires it on the start screen only as a warm-up — it wakes the function and opens the database
+connection while the user is still choosing. The picker itself does not wait for it.
 
 ```json
 {
@@ -208,6 +210,9 @@ counts. It never deletes: a word removed from the JSON stays in the database unt
   must not trigger another fetch.
 - **Locked answers without losing feedback.** After answering, clicks are ignored and `aria-disabled` is
   set, instead of `disabled` — disabled MUI buttons turn grey and would hide the red/green marking.
+- **Instant start screen.** The level buttons come from a frontend copy of `LEVELS`, not from the API,
+  so a cold start never blocks the first screen. A level with no nouns surfaces as a `404` from
+  `/random`, which the quiz shows as "pick another level" rather than a retryable error.
 - **State shape.** `Home` holds `selection` as an object, because `level: undefined` ("all levels") is a
   valid choice and cannot double as "nothing chosen yet".
 - **Styling.** Colours and spacing are CSS custom properties in `index.css`; SCSS modules only read them.

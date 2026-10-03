@@ -15,7 +15,8 @@ const answerColor = (article, answer, correct) => {
 /**
  * One question at a time. Each fetch is tied to an AbortController, so a slow response for an old
  * question can never overwrite a newer one. The previous id is sent as `exclude` so the same noun
- * never shows twice in a row; it lives in a ref because it must not re-trigger the fetch.
+ * never shows twice in a row; it lives in a ref because it must not re-trigger the fetch. A 404 means
+ * the level has no nouns — that is not something a retry fixes, so it gets its own state.
  */
 export const Quiz = ({ level, onChangeLevel }) => {
   const [noun, setNoun] = useState(null);
@@ -36,6 +37,10 @@ export const Quiz = ({ level, onChangeLevel }) => {
       })
       .catch((reason) => {
         if (controller.signal.aborted) return;
+        if (reason.status === 404) {
+          setStatus(STATUS.EMPTY);
+          return;
+        }
         setError(reason.message);
         setStatus(STATUS.ERROR);
       });
@@ -63,7 +68,20 @@ export const Quiz = ({ level, onChangeLevel }) => {
         </Button>
       </header>
 
-      {status === STATUS.ERROR ? (
+      {status === STATUS.EMPTY && (
+        <Alert
+          severity="info"
+          action={
+            <Button color="inherit" size="small" onClick={onChangeLevel}>
+              Promijeni razinu
+            </Button>
+          }
+        >
+          {level ? `Razina ${level} još nema riječi.` : 'Još nema riječi.'} Odaberi neku drugu razinu.
+        </Alert>
+      )}
+
+      {status === STATUS.ERROR && (
         <Alert
           severity="error"
           action={
@@ -74,7 +92,9 @@ export const Quiz = ({ level, onChangeLevel }) => {
         >
           {error}
         </Alert>
-      ) : (
+      )}
+
+      {(status === STATUS.LOADING || isReady) && (
         <>
           <Alert variant="filled" severity="info" icon={false} className={styles.translation}>
             {isReady ? noun.translation : ' '}

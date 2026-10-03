@@ -30,14 +30,6 @@
   color: var(--color-text-muted);
 }
 
-.loading {
-  display: flex;
-  gap: var(--space-2);
-  align-items: center;
-  justify-content: center;
-  color: var(--color-text-muted);
-}
-
 .levelGrid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
